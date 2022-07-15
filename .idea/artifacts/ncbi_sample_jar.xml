@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ncbi-sample:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ncbi_sample_jar</output-path>
+    <root id="archive" name="ncbi-sample.jar">
+      <element id="module-output" name="ncbi-sample" />
+    </root>
+  </artifact>
+</component>
